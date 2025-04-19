@@ -24,7 +24,7 @@ Root access for installing to /usr/bin
 
 Build and Install
 
-Clone the repository:git clone https://github.com/yourusername/wsh.git
+Clone the repository:git clone https://github.com/emerge6/wsh.git
 cd wsh
 
 
@@ -144,6 +144,6 @@ Add support for arrays or traps.
 License
 wsh is licensed under the MIT License. See LICENSE for details.
 Contact
-Got questions or ideas? Open an issue on GitHub or reach out to me at your.email@example.com. Happy shelling!
+Got questions or ideas? Open an issue on GitHub or reach out to me at https://t.me/+jnz-Dk-YvBQwNzli. Happy shelling!
 
 Built with ☕ and a love for Unix shells.
