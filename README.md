@@ -1,3 +1,4 @@
+# WSH
 Well Shell (wsh)
 Welcome to wsh, a lightweight, customizable Unix shell written in C++! I built wsh to be a simple yet powerful alternative to traditional shells like Bash or Zsh, with a focus on ease of use, scripting capabilities, and a clean user experience. It’s perfect for users who want a minimal shell with modern features like tab completion, job control, and colorful prompts, without the bloat of larger shells.
 Features
